@@ -1,7 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        
-        int numeroif = -1;
+        //#EJERCICIO LISTO PARA ENTREGAR 06/09/2022
+
+        int numeroif = -0;
 
         //# SENTENCIA DE CONTROL if
         System.out.println("Sentencia de Control if...");
